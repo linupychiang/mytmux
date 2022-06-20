@@ -8,6 +8,13 @@ brew install tmux
 
 配置文件 `~/.tmux.conf`
 
+如果没有，需创建
+```shell
+# 使其生效
+tmux source ~/.tmux.conf
+```
+
+
 > *注意：* 为便于编辑，使用 `SS` 表示前缀键 `C + s`
 
 ### 配置
